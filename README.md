@@ -19,12 +19,6 @@ Tenho atuado em projetos de software corporativo,  migração e automação em c
 - Projetos open source e governança técnica
 
 ## 🛠️ Tecnologias e ferramentas
-- Linguagens: C#, Asp.Net Core, Python, JavaScript/TypeScript, SQL
-- Web & APIs: Asp.Net Core, Node.js, RESTful APIs
-- Infra & CI/CD: Docker, GitHub Actions, Azure, AWS/GCP
-- Ferramentas: Git, VS Code, Visual Studio, SQL Managment Studio
-
-## Tecnologias utilizadas no dia a dia
 
 <div style="display: inline\_block"> <br/>
 
@@ -39,8 +33,6 @@ Tenho atuado em projetos de software corporativo,  migração e automação em c
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black">
 
 <img align="center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white">
-
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge\&logo=java\&logoColor=white">
 
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB">
 
