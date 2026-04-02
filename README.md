@@ -69,8 +69,14 @@ Tenho atuado em projetos de software corporativo,  migração e automação em c
 
 
 ## 📈 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfCristianoDePaula&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCristianoDePaula&layout=compact&theme=tokyonight)
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfCristianoDePaula&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCristianoDePaula&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
+
+</div>
 
 
 ## 🤝 Como contribuir
