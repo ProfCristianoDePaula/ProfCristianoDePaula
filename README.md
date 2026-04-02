@@ -1,6 +1,10 @@
 # 👋 Seja Bem-Vindo — Eu sou o Prof. Cristiano De Paula
 
-Sou especialista em tecnologia da informação com experiência em arquitetura de software, desenvolvimento full-stack e liderança técnica. Atuo integrando visão de negócio, automação e computação em nuvem para entregar soluções escaláveis e eficientes. Também contribuo com ensino e compartilhamento de conhecimento por meio de projetos open source e materiais didáticos.
+💡 **Arquiteto de Software | Full-Stack | Cloud | Educador**
+
+Sou especialista em tecnologia da informação com experiência em arquitetura de software, desenvolvimento full-stack e liderança técnica. Atuo integrando visão de negócio, automação e computação em nuvem para entregar soluções escaláveis e eficientes.
+
+Também contribuo com ensino e compartilhamento de conhecimento por meio de projetos open source e materiais didáticos.
 
 ---
 
@@ -14,9 +18,15 @@ Sou especialista em tecnologia da informação com experiência em arquitetura d
 
 ## 🔎 Sobre mim
 
-Atuo em projetos de software corporativo, migração e automação em cloud, além de coordenação e mentoria de times técnicos. Minha abordagem combina boas práticas de engenharia, testes e entrega contínua, com foco em sustentabilidade e reutilização de código.
+Atuo em projetos de software corporativo, migração e automação em cloud, além de coordenação e mentoria de times técnicos.
 
-Valorizo a cultura de colaboração, documentação clara e o ensino como forma de multiplicar impacto.
+Minha abordagem combina:
+- 🧠 Engenharia de software sólida  
+- 🔄 Integração e automação de processos  
+- ☁️ Cloud e escalabilidade  
+- 📚 Ensino como multiplicador de impacto  
+
+Valorizo documentação clara, código sustentável e cultura de colaboração.
 
 ---
 
@@ -34,23 +44,26 @@ Valorizo a cultura de colaboração, documentação clara e o ensino como forma 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
+
+---
+
+## 🚀 Destaque
+
+- ⚡ Desenvolvendo o **EnerCheck** (IA para validação de projetos elétricos)  
+- 💼 Criador da **SmartSync** (automação financeira com Pix)  
+- 🚜 Projetos com **ESP32 + ISOBUS (agro/industrial)**  
+- 📚 Produção de conteúdo técnico e ensino  
 
 ---
 
@@ -59,6 +72,14 @@ Valorizo a cultura de colaboração, documentação clara e o ensino como forma 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfCristianoDePaula&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCristianoDePaula&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
+
+---
+
+## 🐍 Contribuições em atividade
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProfCristianoDePaula/ProfCristianoDePaula/output/snake.svg"/>
 </p>
 
 ---
