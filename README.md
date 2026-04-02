@@ -56,8 +56,7 @@ Valorizo a cultura de colaboração, documentação clara e o ensino como forma 
 
 ## 📈 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfCristianoDePaula&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+<p>
   <img height="180em" src="https://streak-stats.demolab.com?user=ProfCristianoDePaula&theme=tokyonight"/>
 </p>
 
